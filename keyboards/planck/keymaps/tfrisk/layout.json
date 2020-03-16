@@ -1,0 +1,259 @@
+[
+  {
+    "backcolor": "#612f2f",
+    "background": {
+      "name": "Aluminium brassed",
+      "style": "background-image: url('/bg/metal/aluminum_texture1649.jpg');"
+    },
+    "radii": "20 px",
+    "switchMount": "cherry",
+    "switchBrand": "gateron",
+    "switchType": "KS-3-Red",
+    "pcb": true,
+    "plate": true
+  },
+  [
+    {
+      "t": "#e30e5d",
+      "fa": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "1\n\n\ndel\n\n\n\n\n\nesc",
+    {
+      "t": "#000000\n\n#f59d7f",
+      "fa": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "\n!\n1\nF1\n\n\n\n\n\nQ",
+    {
+      "t": "#000000\n#7781e6\n#f59d7f\n#1fcc87"
+    },
+    "\n@\n2\nF2\n\n\n\n\n\nW",
+    "\n#\n3\nF3\n\n\n\n\n\nE",
+    {
+      "t": "#000000\n#7781e6\n#f59d7f\n#1fcc87\n\n\n\n\n#a7a814",
+      "fa": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    "\n$\n4\nF4\n\n\n\n\nreset\nR",
+    {
+      "t": "#000000\n#7781e6\n#f59d7f"
+    },
+    "\n%\n5\n\n\n\n\n\n\nT",
+    "\n^\n6\n\n\n\n\n\n\nY",
+    "\n&\n7\n\n\n\n\n\n\nU",
+    "\n*\n8\n\n\n\n\n\n\nI",
+    "\n(\n9\n\n\n\n\n\n\nO",
+    {
+      "t": "#000000\n#7781e6\n#f59d7f\n#1fcc87"
+    },
+    "\n)\n0\nprint\n\n\n\n\n\nP",
+    {
+      "t": "#000000\n\n\n#1fcc87"
+    },
+    "\n\n\nå\n\n\n\n\n\nback"
+  ],
+  [
+    {
+      "t": "#000000\n#7781e6\n#f59d7f"
+    },
+    "\n~\n`\n\n\n\n\n\n\ntab",
+    {
+      "t": "#000000\n#7781e6\n#f59d7f\n#1fcc87"
+    },
+    "\nc-z\n4\nF5\n\n\n\n\n\nA",
+    "\nc-x\n5\nF6\n\n\n\n\n\nS",
+    "\nc-c\n6\nF7\n\n\n\n\n\nD",
+    {
+      "t": "#000000\n#7781e6\n\n#1fcc87"
+    },
+    "\nc-v\n\nF8\n\n\n\n\n\nF",
+    {
+      "t": "#a7a814",
+      "a": 5
+    },
+    "game\n\n\n\n\n\nG",
+    {
+      "t": "#000000",
+      "a": 7
+    },
+    "H",
+    {
+      "t": "#000000\n#7781e6\n#f59d7f",
+      "a": 4,
+      "fa": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "\n_\n-\n\n\n\n\n\n\nJ",
+    "\n+\n=\n\n\n\n\n\n\nK",
+    {
+      "t": "#000000\n#7781e6"
+    },
+    "\n{\n\n\n\n\n\n\n\nL",
+    {
+      "t": "#000000\n#7781e6\n\n#1fcc87",
+      "fa": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "\n}\n\nö\n\n\n\n\n\n; :",
+    {
+      "t": "#000000\n\n\n#1fcc87"
+    },
+    "\n\n\nä\n\n\n\n\n\n'"
+  ],
+  [
+    {
+      "t": "#000000",
+      "a": 7
+    },
+    "shift",
+    {
+      "t": "#000000\n\n#f59d7f\n#1fcc87",
+      "a": 4
+    },
+    "\n\n7\nF9\n\n\n\n\n\nZ",
+    "\n\n8\nF10\n\n\n\n\n\nX",
+    "\n\n9\nF11\n\n\n\n\n\nC",
+    {
+      "t": "#000000\n\n\n#1fcc87"
+    },
+    "\n\n\nF12\n\n\n\n\n\nV",
+    {
+      "t": "#000000",
+      "a": 7
+    },
+    "B",
+    "N",
+    "M",
+    ", <",
+    {
+      "t": "#000000\n#7781e6",
+      "a": 4
+    },
+    "\n[\n\n\n\n\n\n\n\n. >",
+    {
+      "t": "#000000\n#7781e6\n#f59d7f\n#1fcc87"
+    },
+    "\n]\nvol+\npgup\n\n\n\n\n\nup",
+    {
+      "t": "#000000\n\n\n#1fcc87"
+    },
+    "\n\n\ndel\n\n\n\n\n\nenter"
+  ],
+  [
+    {
+      "t": "#000000",
+      "a": 7
+    },
+    "ctrl",
+    {
+      "c": "#1fcc87",
+      "t": "#e30e5d",
+      "a": 4,
+      "fa": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "4\n\n\n\n\n\n\n\n\nfn",
+    {
+      "c": "#cccccc",
+      "t": "#e30e5d\n\n#f59d7f"
+    },
+    "3\n\n0\n\n\n\n\n\n\nwin",
+    {
+      "t": "#e30e5d"
+    },
+    "2\n\n\n\n\n\n\n\n\nalt",
+    {
+      "c": "#7781e6",
+      "t": "#000000",
+      "a": 7,
+      "f": 3
+    },
+    "lower",
+    {
+      "c": "#cccccc",
+      "w": 2
+    },
+    "",
+    {
+      "c": "#f59d7f",
+      "f": 3
+    },
+    "raise",
+    {
+      "c": "#cccccc",
+      "t": "#000000\n#7781e6",
+      "a": 4
+    },
+    "\n\\\n\n\n\n\n\n\n\n/ ?",
+    {
+      "t": "#000000\n#7781e6\n#f59d7f\n#1fcc87"
+    },
+    "\n|\nnext\nhome\n\n\n\n\n\nleft",
+    {
+      "t": "#000000\n\n#f59d7f\n#1fcc87"
+    },
+    "\n\nvol-\npgdn\n\n\n\n\n\ndown",
+    "\n\nplay\nend\n\n\n\n\n\nright"
+  ]
+]
